@@ -1,0 +1,27 @@
+.header{
+    height: 11cm;
+    background: green;
+    justify-content: center;
+    align-items: center;
+    padding-left: 5cm;
+    padding-right: 5cm;
+
+}
+
+.header-nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-home{
+    height: 3cm;
+}
+
+.header-logo{
+    height: 10cm;
+}
+
+.header-cart{
+    height: 3cm;
+}
